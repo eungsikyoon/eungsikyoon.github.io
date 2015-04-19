@@ -6,17 +6,21 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-url:              http://getpoole.com
+title:            Eungsik Yoon's Blog
+#tagline:          The personal website of Eungsik Yoon
+url:              http://eungsikyoon.github.io
 paginate:         1
 baseurl:          /
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           Eungsik Chris Yoon
+  url:            http://eungsikyoon.github.io
+  email:          yoon.eungsik@gmail.com
 
 # Custom vars
 version:          1.0.0
 github:
   repo:           https://github.com/poole/poole
+
+pages_list:       
+  About: '/about'
+  Archive: '/archive'
